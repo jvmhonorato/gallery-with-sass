@@ -87,6 +87,8 @@ body ul {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+.gallery-card-btn:hover {
   background-color: #fff;
   color: #000;
 }
